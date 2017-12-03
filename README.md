@@ -15,7 +15,9 @@
 * He creado el tag v0.1 y he hecho commit (GITHUB Desktop)
 * Finalmente he relizado un PUSH (GITHUB Desktop)
 
-![picture alt](/images/atom.png)
+![](/images/atom.PNG)
+
+![](/images/desktop.PNG)
 
 |   |   |
 |---|---|
