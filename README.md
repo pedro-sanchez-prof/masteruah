@@ -1,13 +1,12 @@
-# masteruah
-Repositorio para ejercicios de Data Science de UAH
+# Repositorio para ejercicios de Data Science de UAH
 
-Para hacer este ejercicio:
+## Para hacer este ejercicio:
 
 * Me he registrado en GITHUB
 * He dado de alta el repositorio en la web de GITHUB (incluyendo un fichero README.md)
 * Desde la web de GITHUB he clonado el repositorio
 
-En local (usando ATOM y GITHUB Desktop):
+## En local (usando ATOM y GITHUB Desktop):
 
 * He creado en el repositorio local un fichero llamado privado.txt (ATOM)
 * He creado en el repositorio local una carpeta llamada privada desde el Explorador de Windows
