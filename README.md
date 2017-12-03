@@ -19,7 +19,7 @@
 
 ![](/images/desktop.PNG "GITHUB Desktop")
 
-|   |   |
+|NOMBRE   |GITHUB   |
 |---|---|
 |   |   |
 |   |   |
